@@ -1,14 +1,9 @@
 # Sign-Language-Recognition
-In this project, we have created a model to detect sign language using mediapipe holistic keypoints and LSTM layered model.
+We developed a model to detect sign language using mediapipe holistic keypoints and an LSTM layered model in this project.Dumb people communicate using hand signs, so normal people have difficulty recognising their language through signs.As a result, systems that recognise various signs and convey information to ordinary people are required.
 
-Dumb people use hand signs to communicate, hence normal people face problem in recognizing their language by signs made.Hence there is a need of the systems which recognizes the different signs and conveys the
-information to the normal people.
+The goal of our project is to create a virtual talking system without sensors for people in need, with this concept achieving success through image processing and human hand gesture input.This primarily benefits people who are unable to communicate with others.
 
-The aim of our project is to develop a concept of virtual talking system without sensor for
-people who in need, this concept achieving a by using image processing and human hand
-gesture input.This mainly helps to people who can’t talk with other people.
-
-Implementation steps are as follows:
+The following are the steps for implementation:
 Install and Import Dependencies
 
 Detect Face,Hand and Pose Landmarks
